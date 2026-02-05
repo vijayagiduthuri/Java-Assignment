@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class BoatsToSavePeople {
     public int numRescueBoats(int[] people, int limit) {
